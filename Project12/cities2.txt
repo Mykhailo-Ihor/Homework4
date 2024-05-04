@@ -1,0 +1,12 @@
+Italy,Rome,2873494
+Italy,Milan,1378689
+Spain,Madrid,3348536
+Spain,Barcelona,1620343
+United Kingdom,London,9304016
+United Kingdom,Manchester,547627
+Japan,Tokyo,13929286
+Japan,Yokohama,3726167
+China,Beijing,21516000
+China,Shanghai,24183300
+India,Delhi,29617000
+India,Mumbai,23355000

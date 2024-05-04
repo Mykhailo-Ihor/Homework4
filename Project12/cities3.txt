@@ -1,0 +1,11 @@
+Ukraine,Kyiv,2800000
+Ukraine,Kharkiv,1441000
+Ukraine,Lviv,720000
+Poland,Warsaw,1793000
+Poland,Krakow,779115
+Poland,Lodz,685285
+France,Paris,2148000
+France,Marseille,863310
+Germany,Berlin,3769000
+Germany,Hamburg,1841000
+Germany,Munich,1472000

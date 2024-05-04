@@ -1,0 +1,11 @@
+USA,New York,8538000
+USA,Los Angeles,3976000
+USA,Chicago,2695000
+Canada,Toronto,2731571
+Canada,Montreal,1704694
+Mexico,Mexico City,8918653
+Mexico,Guadalajara,1460148
+Brazil,Sao Paulo,12106920
+Brazil,Rio de Janeiro,6718903
+Argentina,Buenos Aires,2890151
+Argentina,Cordoba,1309820
