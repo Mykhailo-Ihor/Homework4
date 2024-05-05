@@ -24,10 +24,7 @@ vector<City> readCitiesFromFile(ifstream& is)
         throw invalid_argument("File is not open");
     }
     vector<City> cities;
-    while (!is.eof()) 
-    {
-        copy(istream_iterator<City>(is), istream_iterator<City>(), back_inserter(cities));
-    }
+    copy(istream_iterator<City>(is), istream_iterator<City>(), back_inserter(cities));
     return cities;
 }
 
